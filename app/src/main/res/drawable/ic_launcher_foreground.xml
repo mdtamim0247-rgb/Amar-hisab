@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Centered within the 66dp safe zone (21 to 87 on 108dp canvas) -->
+    <!-- Wallet base body -->
+    <path
+        android:pathData="M30,38 L74,38 C77.3,38 80,40.7 80,44 L80,72 C80,75.3 77.3,78 74,78 L30,78 C26.7,78 24,75.3 24,72 L24,44 C24,40.7 26.7,38 30,38 Z"
+        android:fillColor="#FFFFFF" />
+    <!-- Wallet flap & accent in deep emerald -->
+    <path
+        android:pathData="M24,42 L80,42 L80,47 L24,47 Z"
+        android:fillColor="#D1FAE5" />
+    <!-- Wallet latch with gold coin button -->
+    <path
+        android:pathData="M66,51 L79,51 C81.2,51 83,52.8 83,55 L83,63 C83,65.2 81.2,67 79,67 L66,67 C64.3,67 63,65.7 63,64 L63,54 C63,52.3 64.3,51 66,51 Z"
+        android:fillColor="#10B981" />
+    <path
+        android:pathData="M74,59 m-3,0 a3,3 0 1,0 6,0 a3,3 0 1,0 -6,0"
+        android:fillColor="#FBBF24" />
+    <!-- Upward-right remittance transfer arrow in gold / amber -->
+    <path
+        android:pathData="M36,66 L56,46 M44,46 L56,46 L56,58"
+        android:strokeColor="#F59E0B"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000" />
+    <!-- Floating Gold Coin on top-right -->
+    <path
+        android:pathData="M52,32 m-6,0 a6,6 0 1,0 12,0 a6,6 0 1,0 -12,0"
+        android:fillColor="#FBBF24" />
+    <!-- Coin symbol / rim -->
+    <path
+        android:pathData="M52,32 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0"
+        android:strokeColor="#D97706"
+        android:strokeWidth="0.8"
+        android:fillColor="#00000000" />
+</vector>

@@ -1,0 +1,6 @@
+{
+  "name": "আমার হিসাব",
+  "description": "সৌদি প্রবাসী ফাইন্যান্স, খরচ ও রেমিট্যান্স ট্র্যাকার (Amar Hisab - Saudi Expat Finance & Remittance Tracker)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
